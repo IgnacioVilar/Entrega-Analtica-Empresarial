@@ -11,13 +11,18 @@ Una empresa que realiza ofertas de sus productos para los Black Friday, quiere p
 * Emilia Regent 
 * Ignacio Vilar del Valle
 
-## Objetivos 
+## Objetivos :raised_hands:
 
 * Analizar datos de los productos más vendidos en el Black Friday los últimos dos años para proyectar las ventas futuras
 
 * Entender el negocio del Black Friday
 
 * Desarrollar habilidades en GitHub
+
+## Dificultades :grimacing:
+* No encontrar un Dataset actualizado
+* Modificación del Dataset
+* 
 
 ## Predicción Ventas 2018
 
