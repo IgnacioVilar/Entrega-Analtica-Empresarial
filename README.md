@@ -22,7 +22,10 @@ Una empresa que realiza ofertas de sus productos para los Black Friday, quiere p
 ## Dificultades :grimacing:
 * No encontrar un Dataset actualizado
 * Modificación del Dataset
-* 
+* Problematica en los datos
+* Entendimiento de códigos 
+* Elegir un modelo correcto
+* Datacleaning
 
 ## Predicción Ventas 2018
 
