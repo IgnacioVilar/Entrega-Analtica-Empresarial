@@ -11,10 +11,13 @@ Una empresa que realiza ofertas de sus productos para los Black Friday, quiere p
 * Emilia Regent 
 * Ignacio Vilar del Valle
 
-1. Primero hicimos esto
-2. Segundo hicimos esto otro
-3. Tercero...
+## Objetivos 
 
+* Analizar datos de los productos más vendidos en el Black Friday los últimos dos años para proyectar las ventas futuras
+
+* Entender el negocio del Black Friday
+
+* Desarrollar habilidades en GitHub
 
 ## Predicción Ventas 2018
 
