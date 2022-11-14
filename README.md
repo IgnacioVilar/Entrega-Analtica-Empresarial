@@ -15,13 +15,3 @@ Una empresa que realiza ofertas de sus productos para los Black Friday, quiere p
 2. Segundo hicimos esto otro
 3. Tercero...
 
-El codigo siguiente ejecuta x:
-```
-import ... from *
- 
-
-
-...
-...
-...
-```
