@@ -27,6 +27,7 @@ Una empresa que realiza ofertas de sus productos para los Black Friday, quiere p
 * Elegir un modelo correcto
 * Datacleaning
 
-## Predicción Ventas 2018
+## Predicción Ventas 2018 (modelo 2)
+
 
  <img width="513" alt="Captura de Pantalla 2022-11-14 a la(s) 13 02 57" src="https://user-images.githubusercontent.com/115651215/201708520-26452ea4-6f65-4791-a356-9cee31675b92.png">
