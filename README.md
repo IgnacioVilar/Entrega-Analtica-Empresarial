@@ -26,6 +26,7 @@ Una empresa que realiza ofertas de sus productos para los Black Friday, quiere p
 * Entendimiento de códigos 
 * Elegir un modelo correcto
 * Datacleaning
+* Entendimiento de GITHUB
 
 ## Predicción Ventas 2018 (modelo 2)
 
